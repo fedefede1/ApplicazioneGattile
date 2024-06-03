@@ -1,0 +1,24 @@
+﻿<Window x:Class="ApplicazioneGattile.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicazioneGattile"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <TextBlock Margin="47,32,570,370" Text="inserisci nome gatto:"/>
+        <TextBlock Margin="47,64,570,338" Text="inserisci razza gatto:"/>
+        <TextBlock Margin="47,96,570,306" Text="inserisci sesso gatto:"/>
+        <TextBlock Margin="47,128,570,274" Text="inserisci data nascita gatto:"/>
+        <TextBlock Margin="47,160,570,242" Text="inserisci data di arrivo gatto:"/>
+        <TextBlock Margin="47,192,570,210" Text="inserisci descrizione:"/>
+        <TextBox Margin="230,32,387,370" Name="tb_Nome"/>
+        <TextBox Margin="230,64,387,338" Name="tb_Razza"/>
+        <TextBox Margin="230,96,387,306" Name="tb_Sesso"/>
+        <TextBox Margin="230,128,387,274" Name="tb_DataNascita"/>
+        <TextBox Margin="230,160,387,242" Name="tb_DataArrivo"/>
+        <TextBox Margin="230,192,173,130" Name="tb_Descrizione"/>
+        <Button Name ="btn_Invio" Content="Fatto" Margin="311,329,311,29" Click="btn_Invio_Click"/>
+    </Grid>
+</Window>

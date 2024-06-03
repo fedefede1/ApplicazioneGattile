@@ -1,0 +1,6 @@
+C:\Users\federico.prati\Desktop\ApplicazioneGattile\ApplicazioneGattile\obj\Debug\net7.0-windows\ApplicazioneGattile.csproj.AssemblyReference.cache
+C:\Users\federico.prati\Desktop\ApplicazioneGattile\ApplicazioneGattile\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\federico.prati\Desktop\ApplicazioneGattile\ApplicazioneGattile\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\federico.prati\Desktop\ApplicazioneGattile\ApplicazioneGattile\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\federico.prati\Desktop\ApplicazioneGattile\ApplicazioneGattile\obj\Debug\net7.0-windows\ApplicazioneGattile_MarkupCompile.cache
+C:\Users\federico.prati\Desktop\ApplicazioneGattile\ApplicazioneGattile\obj\Debug\net7.0-windows\ApplicazioneGattile_MarkupCompile.lref

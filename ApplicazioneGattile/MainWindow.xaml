@@ -1,0 +1,15 @@
+﻿<Window x:Class="ApplicazioneGattile.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicazioneGattile"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Margin="339,113,339,281" Text="Totale gatti nel gattile:"/>
+        <TextBlock Name="tb_TotGattiPresenti" Margin="348,167,348,217"/>
+        <Button Name="btn_AggiungiGatto" Content="Aggiungi gatto a gattile" Margin="65,290,565,67" Click="btn_AggiungiGatto_Click"/>
+        <Button Name="btn_AggiungiAdozione" Content="Aggiungi adozione" Margin="556,285,74,71" Click="btn_AggiungiAdozione_Click_1"/>
+    </Grid>
+</Window>
